@@ -15,10 +15,6 @@
 
 <br>
 
-<a href="https://drive.google.com/file/d/1iRVfpKXoNk1KyN5XccYs2_DRChoZmadU/view?usp=sharing" target="_blank">
-    <img alt="Resume" src="https://img.shields.io/badge/Resume-528BFF.svg?style=for-the-badge&logo=googledrive&logoColor=white" />
-</a>
-
 <br>
 <br>
 
