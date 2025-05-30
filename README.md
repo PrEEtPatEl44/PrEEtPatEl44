@@ -18,7 +18,7 @@
 <br>
 <br>
 
-![GitHub Stats](https://github-readme-stats-eta-umber-23.vercel.app/api?username=PrEEtPatEl44&theme=react&hide_border=false&include_all_commits=false&count_private=true)
+![GitHub Stats](https://github-readme-stats-eta-umber-23.vercel.app/api?username=PrEEtPatEl44&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 
 
 <br>
