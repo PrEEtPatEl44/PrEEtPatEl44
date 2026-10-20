@@ -4,6 +4,10 @@
   <img alt="Preet Patel — profile header" src="light.svg" width="100%">
 </picture>
 
+## Portfolio — the terminal that builds itself
+
+[![Watch my portfolio's Claude terminal build the site live](portfolio-intro.gif)](https://preetpatel44.vercel.app)
+
 <!-- Template:
 [![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
 [![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
